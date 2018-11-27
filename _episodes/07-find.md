@@ -1,5 +1,5 @@
 ---
-title: "Finding Things"
+title: "Supplemental: Finding Things"
 teaching: 25
 exercises: 20
 questions:
